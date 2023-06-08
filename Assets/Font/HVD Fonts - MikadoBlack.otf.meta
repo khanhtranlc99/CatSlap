@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 878adc29733549df8e0ba4535353266b
+timeCreated: 1583245408
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "HVD Fonts - MikadoBlack"
+  fontNames:
+  - Mikado
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

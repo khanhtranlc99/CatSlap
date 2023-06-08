@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+  m_Name: "TMP Settings"
+  m_EditorClassIdentifier: 
+  m_enableWordWrapping: 1
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  m_enableTintAllSprites: 0
+  m_enableParseEscapeCharacters: 1
+  m_EnableRaycastTarget: 1
+  m_GetFontFeaturesAtRuntime: 1
+  m_missingGlyphCharacter: 0
+  m_warningsDisabled: 1
+  m_defaultFontAssetPath: "\x03\0"
+  m_defaultFontSize: 0
+  m_defaultAutoSizeMinRatio: 2.522337E-44
+  m_defaultAutoSizeMaxRatio: 7.556296E+31
+  m_autoSizeTextContainer: 1
+  m_matchMaterialPreset: 1
+  m_defaultSpriteAssetPath: 

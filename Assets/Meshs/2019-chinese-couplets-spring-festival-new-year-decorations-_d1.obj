@@ -1,0 +1,22 @@
+#2019-chinese-couplets-spring-festival-new-year-decorations-.001_1801_4.obj
+
+v -0.0947094 0.5573252 7.969699E-07
+v -0.09470892 -0.5573239 6.169818E-07
+v 0.0947113 -0.5573238 1.110379E-06
+v 0.09471083 0.5573254 1.290367E-06
+
+vn 5.960464E-08 -5.960464E-08 -1
+vn 5.960464E-08 -5.960464E-08 -1
+vn 5.960464E-08 -5.960464E-08 -1
+vn 5.960464E-08 -5.960464E-08 -1
+
+vt 0.1889648 0.02470398
+vt 0.1889648 0.8256836
+vt 0.3249512 0.8256836
+vt 0.3249512 0.02470398
+
+g 2019-chinese-couplets-spring-festival-new-year-decorations-.001_1801_4
+usemtl 2019-chinese-couplets-spring-festival-new-year-decorations-.001_1801_4
+usemap 2019-chinese-couplets-spring-festival-new-year-decorations-.001_1801_4
+f 1/1/1 3/3/3 2/2/2
+f 1/1/1 4/4/4 3/3/3

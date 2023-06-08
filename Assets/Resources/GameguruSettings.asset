@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -919626734, guid: c0e250e57155cdfe1291c0e56cf85ac6, type: 3}
+  m_Name: "GameguruSettings"
+  m_EditorClassIdentifier: 
+  AdmobAppAndroidID: "ca-app-pub-2668702745572186~9929661804"
+  AdmobAppIOSID: "ca-app-pub-2668702745572186~4341741868"
+  IronsourceAppAndroidID: "b55413f5"
+  IronsourceAppIOSID: "b484e025"
+  KochavaAndroidGUID: "koslap-kings-7k83u"
+  KochavaIOSGUID: "koslap-kings-wrap6e"
+  ApplovinSDKKey: "3pnT65pOpGJTTVOMoPqG291Qfgy-5rI8d4ckAP7zgRW8xvUkJJ-LT0m7gi6mXOv9TVudw_baQ7kM1C4KW3g-3R"
+  ApplovinInterstitialAdUnitId: "b6d104b5a1b54f42"
+  ApplovinRewardedAdUnitId: "f5f17e844a6d6613"
+  ApplovinBannerAdUnitId: "e406fb91832543ef"
+  InterstitialReloadAttemptInterval: 5
